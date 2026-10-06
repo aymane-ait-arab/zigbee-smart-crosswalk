@@ -39,6 +39,9 @@ A 3-node Zigbee (XBee S2C) wireless network coordinating traffic lights and pede
 | BD (Baud Rate) | 3 [9600] | 3 [9600] |
 | SM (Sleep Mode) | 0 [No Sleep] | 0 [No Sleep] |
 
+<img width="763" height="373" alt="image" src="https://github.com/user-attachments/assets/bb3a2689-d1e0-4d1a-a965-b592e03c4e10" />
+
+
 ## State machine (coordinator-driven, `busy` lock)
 
 A software lock (`busy = true/false` in `noeud1.ino`) blocks any new pedestrian request while a crossing cycle is in progress:
