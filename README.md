@@ -17,6 +17,10 @@ A 3-node Zigbee (XBee S2C) wireless network coordinating traffic lights and pede
    Machine à états (busy lock)                     Bouton + Feu
 ```
 
+<img width="863" height="471" alt="image" src="https://github.com/user-attachments/assets/4597a998-bbe4-408f-ae7c-84c31bf2eb6d" />
+
+
+
 ## Hardware & pin mapping
 
 | Node | Role | Board | Key pins |
